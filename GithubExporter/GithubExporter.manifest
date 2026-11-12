@@ -1,0 +1,12 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"script",
+	"author":	"Mathéo Dornbierer",
+	"description":	{
+		"":	"Exports 3D CAD, 3D PCBs, and 2D PCB/Schematic files directly to a local GitHub repository."
+	},
+	"version":	"",
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"ScriptIcon.svg"
+}
