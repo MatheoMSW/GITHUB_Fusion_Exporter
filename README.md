@@ -84,3 +84,8 @@ Fusion360-GitHub-Exporter/
 1. **Design & Save:** Work normally in Fusion 360 and press **`Ctrl + S`** (with the Add-In active) or click the **Blue Export Now** button in the top bar.
 2. **Review Changes:** Open **GitHub Desktop**—your updated 3D files, PCB files, and `VERSION.txt` appear automatically.
 3. **Commit & Push:** Write a short commit summary, click **Commit to main**, and click **Push origin**.
+
+
+
+> [!WARNING]
+> This is a Beta Version, there could be Bugs.
