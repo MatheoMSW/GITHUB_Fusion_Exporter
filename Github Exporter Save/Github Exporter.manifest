@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"author":	"Mathéo",
+	"description":	{
+		"":We built a custom Fusion 360 Add-In with top-bar toggle controls that automatically exports your 3D CAD, 3D PCB, 2D PCB, schematic, and VERSION.txt files into your local repository on every save so you can easily commit and push them via GitHub Desktop.	""
+	},
+	"version":	"1",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename":	"AddInIcon.svg"
+}
